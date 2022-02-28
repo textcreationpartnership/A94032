@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Strange vvonder of the world, Or the great gyant described. With the monsterousness of his stature, his conditions, the place where, and the manner how he was taken. As also, his residence in Portsmouth Road, in an East Indy merchants ship, called the Nonsuch; with the great preparations making for his bringing up to London; and what is intended to be done with him there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94032</idno>
+            <idno type="STC">Wing S5922</idno>
+            <idno type="STC">Thomason E715_16</idno>
+            <idno type="STC">ESTC R207267</idno>
+            <idno type="EEBO-CITATION">99866329</idno>
+            <idno type="PROQUEST">99866329</idno>
+            <idno type="VID">166733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166733)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E715[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Strange vvonder of the world, Or the great gyant described. With the monsterousness of his stature, his conditions, the place where, and the manner how he was taken. As also, his residence in Portsmouth Road, in an East Indy merchants ship, called the Nonsuch; with the great preparations making for his bringing up to London; and what is intended to be done with him there.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by J.C. and T.W.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octo: 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Giants --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166733:1" rendition="simple:additions"/>
+            <p>
+               <hi>The ſtrange VVonder of the World,</hi> Or the Great GYANT DESCRIBED. With the Monſterouſneſs of his <hi>Stature,</hi> his <hi>Conditions,</hi> the Place where, and the manner how he was taken.</p>
+            <p>AS ALSO, His reſidence in <hi>Portsmouth</hi> Road, in an Eaſt <hi>Indy</hi> Merchants Ship, called the <hi>Nonſuch;</hi> with the great Preparations making for his bringing up to <hi>London;</hi> and what is intended to be done with him there.</p>
+            <figure>
+               <figDesc>woodcut of a ship</figDesc>
+               <q>The Nonsuch;</q>
+            </figure>
+            <p>Printed at <hi>London</hi> by <hi>J.C.</hi> and <hi>T.W.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166733:2"/>
+            <pb n="3" facs="tcp:166733:2"/>
+            <head>The wonder of the World, <hi>Or the Great</hi> GYANT DESCRIBED.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſtrange Report of this Monſterous Huge <hi>Gyant</hi> hath filled all Ears with Wonder and Amazement; that ſuch <hi>Men</hi> have been in former times, is undeni<g ref="char:EOLhyphen"/>able; but that ſuch ſhould be in theſe laſt <hi>Times</hi> of the World, might ſeem not on<g ref="char:EOLhyphen"/>ly very inrredible, but alſo Wonderfull to the hearers or beholders of all ſuch Monſters, as this is Reported to be; But before I come to deſcribe him, let me a little reflect upon former times, and of the Men of thoſe dayes, that the preſent <hi>relation</hi> we have in hand may gain the more likelyhood of truth.</p>
+            <p>That learned Author <hi>Varro,</hi> writeth of one <hi>Tritamio,</hi> a Fencer at <hi>Rome,</hi> of ſuch exceeding ſtrength, that being bound hand and foot with maſſie Chains, he would wreſtle with the ſtrongeſt men that could be found, puſhing their bodyes from one ſide to another, he giving ſuch a deadly
+<pb n="4" facs="tcp:166733:3"/>blow, that if he but touched one of them, they were in great danger of their Lives; his Son was no whit inferior, for being a Souldier under <hi>Pompey,</hi> fought alwayes naked, armed with nothing but what <hi>Nature</hi> had furniſhed him withall, namely his <hi>Fieſts</hi> and <hi>Nayles,</hi> and if he touched but any one with his little finger, he made him yeeld, and brought him Priſoner to the Campe; the <hi>Sinews</hi> of theſe two, were not onely at length like other men, but onely athwart, and croſſe-wiſe over all their whole Body, from whence (as the <hi>Sages</hi> obſerve) proceeded this their ſo mi<g ref="char:EOLhyphen"/>raculous ſtrength.</p>
+            <p>
+               <hi>Elan</hi> writeth of a <hi>Gyant</hi> named <hi>Tritormo,</hi> of ſuch mighty Puiſſance and ſtrength, that <hi>Milo</hi> (another <hi>Gyant</hi>) thinking his great Fame would be ecclipſed by the Report of the others ſtrength, and unconquered Valour; that <hi>Milo</hi> made no more adoe, but ſent him a <hi>Challenge,</hi> which was gladly accepted by <hi>Tritormo,</hi> and the Day appointed to Fight, the Combitants being no ſooner entred into Fight, But <hi>Tritormo</hi> catching up a mighty cleft of a huge <hi>Rock,</hi> which was impoſſible for any Humane force to move, caſting it from him three or four times, with ſuch exceeding force, and then lifting it up upon his Soulder, carried it ſo farre, that <hi>Milo</hi> trembling and amazed at the ſtrangneſſe thereof, cryed out;</p>
+            <p>
+               <hi>Oh J<g ref="char:V">Ʋ</g>PITER! Is it poſſible that thou haſt brought another</hi> Hercules <hi>into the World?</hi>
+            </p>
+            <p>And ſo declining the Ingagement, without more adoe, yeilded unto him; thinking it honor enough for him to wait upon him, and become his ſervant till his Death; theſe had both the Pipes of their Armes and Leggs doubled, their bones being whole, firm and ſound, either without hollowneſſe or <hi>Marrow,</hi> which cauſed them to be of greater force and ſtrength; and which is moſt Remarkable, They never ſuffere Thirſt, nor at any time was it ever obſerved that they ſweat.</p>
+            <p>
+               <hi>Solinus</hi> writeth, that <hi>Hercules</hi> himſelf was but Seven <hi>Foot</hi> high, and all the reſt of his <hi>Body proportionable.</hi>
+            </p>
+            <pb n="5" facs="tcp:166733:3"/>
+            <p>He mentioneth alſo two <hi>Gyants</hi> that lived in the time of <hi>Auguſtus Caeſar,</hi> the one named <hi>Puſton,</hi> the other <hi>Secundila,</hi> who were Ten <hi>foot</hi> high apiece; their <hi>bones</hi> are now to be ſeen in the <hi>Oſſary</hi> of the <hi>Salustians:</hi> Another <hi>Gyant</hi> was a<g ref="char:EOLhyphen"/>bout this time in <hi>Arabia,</hi> called <hi>Gauara,</hi> who was Nine <hi>foot</hi> and 9 <hi>Inches</hi> long, the reſt of his body proportionable. The <hi>Bones</hi> of <hi>Oreſtes</hi> found at <hi>Tegoea,</hi> which being meaſured, were found 7 Cubits long, which is more then four yeards. In the time that <hi>Sartorius</hi> remained Captain General over the <hi>Romane</hi> Army at <hi>Athens,</hi> he cauſed the Sepulchre of a <hi>Gy<g ref="char:EOLhyphen"/>ant</hi> to be opened, and his bones to be meaſured, the length of his Carcaſſe was found to be 70 Cubits, which was ſeen to the great admiration of all the <hi>Romane</hi> Hoſte.</p>
+            <p>
+               <hi>Bergamo</hi> writeth of a Sepulchre, wherein was found a Body of admirable greatneſs, outreaching as it were in length the high Walls or Buildings, he ſeemed as if he lay ſleeping, having wounds upon him Four <hi>Foot wide;</hi> at his <hi>Bolſter</hi> ſtood a <hi>Lampe</hi> burning, which would not go out till a <hi>hole</hi> was made in the <hi>Bottome</hi> thereof, which being done, it ſuddenly extinguiſhed; and the Body, ſo ſoon as touched turned into Powder and Aſhes, about this Tombe was written in <hi>Greek</hi> Letters, <hi>Pallas, Son of Evander, ſlaine by Tur<g ref="char:EOLhyphen"/>nus.</hi>
+            </p>
+            <p>
+               <hi>John Bocacius</hi> writeth, That in the City of <hi>Trapana,</hi> cer<g ref="char:EOLhyphen"/>tain Labourers digging of <hi>Chalke</hi> at the foot of a Hill, diſ<g ref="char:EOLhyphen"/>covered a <hi>Cave</hi> of wonderous wideneſſe, in which was a <hi>Light burning,</hi> in the midſt whereof ſate a man of Monſter<g ref="char:EOLhyphen"/>ous bigneſs, holding a Saffe as big as the greateſt Maſt of a ſhip; they being much affrighted with the fight, runne to the next Town amazed, and raiſed all the People, who arming themſelves, came with <hi>Light Torches</hi> to the <hi>Cave,</hi> where finding he did not ſtir, they laid hands on him, who ſo ſoon as touch'd fell into Aſhes, the bones alſo remain<g ref="char:EOLhyphen"/>ing, which being meaſured, his Carcaſſe was found to be 140 Cubits long, his skull holding two heaped Buſhells of <hi>Wheate.</hi> But theſe were all but <hi>Dwarfs</hi> to ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gyant;</hi> the trueſt <hi>Deſcription</hi> of him, take from that ſage Philoſopher <hi>Democritus,</hi> who limmeth him forth thus.</p>
+            <pb n="6" facs="tcp:166733:4"/>
+            <p>This Monſterous Gyant was taken by an <hi>Engliſh</hi> Merchant in a certain Iland in <hi>America</hi> called <hi>Nera,</hi> as two ſhips were taking in <hi>freſh-water,</hi> they ſeeing this Monſterous Gyant make towards them, with a great <hi>Oake</hi> in his hand, fled all to their ſhallop or long-Boat, and ſo made away to their Ship, much amazed at the ſight of ſo monſterous a Man; He ſtanding ſome little time on the ſhoar looking after them, and ſo returned ſome diſtance up again into the I<g ref="char:EOLhyphen"/>land; Whereupon the Captain comanded 3 <hi>Butts</hi> of <hi>Sacke,</hi> and a Rundlet of <hi>Strong-Waters,</hi> to be placed on the ſhoare, and ſet an end, and the heads of them to be knock'd out, and ſo to return a <hi>Ship-board</hi> againe, which done, the next Morning they perceived the Gyant come ſtalking down to the ſhoare, and ſmelling the <hi>Sack,</hi> he took up a Butt as eaſi<g ref="char:EOLhyphen"/>ly as one would take up a Cup from the Table, and at one draught drunk it all off, and ſo went to the next, and did the like, but at the third Butt he made two draughts, and ſo falling down, ſet the <hi>Strong-waters</hi> to his mouth, turning it up as eaſily as one would do a <hi>Gill,</hi> which Strong-wa<g ref="char:EOLhyphen"/>ter ſo intoxicated his head, That he fell into a dead ſleep; whereupon the Captain ſent out a Shallop, with 30 of the luſtieſt Marriners, with Chains to binde him, and ſo with Cranes and Pullyes to get him into the Shallop, which with difficulty they effected, yet not without great dan<g ref="char:EOLhyphen"/>ger of ſinking their ſhallop with his extraordinary <hi>weight,</hi> having him at the Ship-ſide, opened the Decks, halled him up by Ropes and Pullyes, and ſo <hi>loared</hi> him down into the <hi>Hole,</hi> where he ſlept ſweetly among the <hi>Sand</hi> 24 houres after, during which time, they had taken off his <hi>chains,</hi> and bound him hand and foot with new Ropes and Cables, and ſo making faſt the <hi>Ballaſt-room</hi> left him lying along (as in a Coffin) all the length of the Ship; and ſo, having a fair wind, ſailed about a hundred Leagues from the Iland be<g ref="char:EOLhyphen"/>fore he awaked, who perceiving himſelf intangled, ſtretch<g ref="char:EOLhyphen"/>ing out his Limbs; cracked aſſunder the <hi>Ropes,</hi> as eaſily as one of us would doe a <hi>twine-thread,</hi> yet could not by reaſon of his length riſe up; they feeding him through a
+<pb n="7" facs="tcp:166733:4"/>
+               <hi>hole,</hi> by degrees have in ſome ſort civiliz'd and tamed him; he is 19 foot and a half high, 9 foot broad in the Shoul<g ref="char:EOLhyphen"/>ders, his head is four yeards and a quartern about, his neck 2 yeards, and the Calves of his leggs as bigg; his Noſe is 13 inches long <hi>London meaſure,</hi> it being about a yeard between each Eye, the hollow of his noſtrills being juſt the com<g ref="char:EOLhyphen"/>paſſe of the Muzzle of a <hi>Drake,</hi> and his Eyes as bigg as rea<g ref="char:EOLhyphen"/>ſonable Sawcers; he will eaſily put a ſhoulder of <hi>Mutton</hi> in his mouth at a bitt; his Keeper, ſince he came to <hi>Portſmouth</hi> putting in a 24 pound piece of raw Beef through the <hi>hole</hi> to him, the Gyant being hungry, and ſnapping eagerly at it, bit off his Keepers hand, juſt by the elbow, making no bones of it, which makes them ever ſince more wary of him; he is ſuddenly expected at the <hi>Mouth</hi> at <hi>Aldergate,</hi> which Place (being large) is now taking up for him; Three <hi>ſales-men</hi> on <hi>Snow hill</hi> have hired 30 Tailors to make him a pair of Breeches and Doublet, the Cloath whereof, being 38 yeards of Broad-Cloath, at 11. s. the yeard; and a <hi>Felt<g ref="char:EOLhyphen"/>maker</hi> in <hi>Greens Rents</hi> hath bought an old Copper of the Braſier at <hi>Holburn-Conduit,</hi> to boyle his <hi>Felt</hi> in, the crown of which Hat will hold 3 buſhells of <hi>Wheate,</hi> there being in the Brims and all, about a Todd and a half of <hi>Wooll;</hi> the Kings <hi>Sho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-maker</hi> in St. <hi>Martins,</hi> having bought the laſt Monday in <hi>Leaden-hall</hi> 7 <hi>Dicker</hi> of <hi>Leather</hi> to make him a pair of <hi>Boots</hi> and a pair of <hi>Shooes,</hi> there being a large <hi>back</hi> in one <hi>ſowle,</hi> and 2 <hi>hides</hi> in an <hi>upper Leather,</hi> Squire <hi>Bugge</hi> is to take <hi>meaſure</hi> of his <hi>foot,</hi> and to <hi>cut them out,</hi> and <hi>liquor</hi> them; twenty Ells of <hi>Lockrum</hi> will but make him one <hi>ſhirt,</hi> his <hi>Stockings</hi> being full as bigg, but longer then a <hi>Quarter-Sack,</hi> and his Garters 12 yeards long, comming but twice about his legge, all the <hi>Fees</hi> at the <hi>Slaughter-houſe</hi> on Tower Hill are beſpoak to feed him; and 3 Carpenters hired by the Merchants that own him, to goe and cut down the Great <hi>Elme</hi> at <hi>Hamſted</hi> to make him a <hi>Pick-tooth;</hi> Some re<g ref="char:EOLhyphen"/>port, that a certain rich <hi>Jew</hi> hath bought <hi>Powls</hi> to keep him in, where he intends to <hi>ſhow</hi> him to the People, becauſe the <hi>Mouth Inn</hi> at <hi>Alderſ-gate</hi> is meaſured, and found <hi>too lit<g ref="char:EOLhyphen"/>tle</hi>
+               <pb n="8" facs="tcp:166733:5"/>to hold him; the great <hi>Oliphant</hi> in <hi>Holland</hi> is ſent for over, to bring him thorow the City, as he paſſes thorow <hi>Cheap-ſide,</hi> Two men are to be placed on the top of <hi>Bow-Steeple,</hi> with two great <hi>Ladles</hi> faſtned upon <hi>Poles,</hi> to reach him <hi>Sack</hi> to drink, and two more with great <hi>Shovells</hi> to fling <hi>Sugar-plumns</hi> into his <hi>mouth;</hi> 24 men have underta<g ref="char:EOLhyphen"/>ken to feed him on the ſide Galleries on top of <hi>Pauls,</hi> one ſtanding with a <hi>Scoop</hi> to fling in <hi>ſalt</hi> after every mouthfull of <hi>meat</hi> he takes, 40 <hi>Fat Oxen</hi> being roaſted for his Dinner, and 100 ſheep for his <hi>Supper,</hi> two Tun of <hi>Wine,</hi> and Three <hi>Hoggs-heads</hi> of <hi>Beer</hi> to a meal, and this is to welcome him into the <hi>City;</hi> thus he is to be feaſted for 6 Dayes, and the Seventh, four <hi>Presbyterian Prieſts</hi> are to ſay <hi>Grace,</hi> and af<g ref="char:EOLhyphen"/>terwards to uſe all the poſſible means they can to <hi>Convert</hi> him from Paganiſme, and ſo he is to goe to <hi>Broken-wharf,</hi> where the <hi>Prieſts</hi> are to ſtand by the <hi>Windmill</hi> on the top of the <hi>Water-Houſe,</hi> and to <hi>ſprinkle</hi> him with <hi>Holy-water</hi> drawn up by Horſes for that purpoſe, and afterwards he is to pull off his <hi>ſtockings,</hi> and to <hi>wade</hi> up the <hi>Thames</hi> to <hi>Weſtminſter-Hall</hi> and back again, that all the Citizens may behold him, as he goes and comes back, all the <hi>Chambers</hi> are to be diſ<g ref="char:EOLhyphen"/>charged at the <hi>Bank-end</hi> and upon <hi>Tower-Hill;</hi> Some affirm, that the <hi>Hgogs-fac'd Gentle-woman</hi> is ſent for out of <hi>Holland</hi> to be his god-mother; and litte <hi>Jeffry</hi> the Great <hi>Turk</hi> from <hi>Conſtantinople</hi> to be his godfather; but this is only report; when he is chriſtned, and all this performed you ſhall hear more, untill which time, I ſhall forbear any further <hi>Infor<g ref="char:EOLhyphen"/>mation</hi> or Diſcription of this Monſterous <hi>Gyant;</hi> In the mean time, take this for the moſt trueſt <hi>Relation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
